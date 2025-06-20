@@ -3,7 +3,7 @@ errors:
     Missing Required Configuration
     {}
 
-    Please check the documentation or contact the developer @bohd4nx for assistance.
+    Please check the documentation or contact the developer @b1bbb for assistance.
     Visit https://github.com/bohd4nx/Gifts-Buyer/blob/master/README.md for more information.
 
 telegram:
@@ -21,7 +21,7 @@ telegram:
 
     💡 Gifts outside the specified criteria will be automatically skipped
 
-    @GiftsTracker • @GiftMints | Made with ❤️ by @bohd4nx
+    • Made with ❤️ by @b1bbb
   peer_id_error: |
     <b>❗Error while sending gift!</b>
 
